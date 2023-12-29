@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "cards",
   "css": "./custom.css",
   "footer": "©Syrian Shake LLC , We are not the orginal copyright holders all images belong to the owning company/induvidual/group , We are not liable for any forms of copyright infringement as per the Docterine of Fair use - Under Indian law, the Copyright Act of 1957, states in its provisions that fair dealing with a literary, dramatic, musical, or artistic work that is not infringement of copyright."
 
