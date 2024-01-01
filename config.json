@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "The Ganesh Archives",
+  "title": "Cringe Archival Project // Code name - MERINO",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "©Syrian Shake LLC , We are not the orginal copyright holders all images belong to the owning company/induvidual/group , We are not liable for any forms of copyright infringement as per the Docterine of Fair use - Under Indian law, the Copyright Act of 1957, states in its provisions that fair dealing with a literary, dramatic, musical, or artistic work that is not infringement of copyright."
+  "footer": "©Syrian Shake LLC , We are not the orginal copyright holders all images belong to the owning company/induvidual/group , We are not liable for any forms of copyright infringement as per the Docterine of Fair use - Under Indian law, the Copyright Act of 1957, states in its provisions that fair dealing with a literary, dramatic, musical, or artistic work that is not infringement of copyright. , This is a artistic rendition of pictures taken of the photographed party/induvidual/company . For Legal complaints please email:donkeyclownbaby@gmail.com"
 
 }
