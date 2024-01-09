@@ -9,7 +9,7 @@
  **(2) Docs : Easy mode**  
 
 
- - To download / view this archive please go to its direct link at (209-laark.ddns.net)
+ - To download / view this archive please go to its direct link at (l209-laark.ddns.net)
 
  - to download click the blue button titled [<> Code].
  - then click download zip.
